@@ -1,0 +1,13 @@
+user:
+  - uuid: "uuid'5a7f91d3-4bab-47cd-a62d-d612a20fe982'"
+    email: "my@email.com"
+    is_email_confirmed: true
+    email_confirmation_code: "uuid'5a7f91d3-4bab-47cd-a62d-d612a20fe982'"
+password_reset:
+email_reset:
+  - uuid: "uuid'2cb6932d-aab0-4e43-b082-e8395a3c8ed6'"
+    user: "uuid'5a7f91d3-4bab-47cd-a62d-d612a20fe982'"
+    new_email: "new@email.com"
+    fulfilled: false
+    timestamp: "[DAY,NOW]"
+    

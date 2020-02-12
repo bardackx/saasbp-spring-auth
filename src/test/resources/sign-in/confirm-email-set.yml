@@ -1,0 +1,5 @@
+user:
+  - uuid: "uuid'5a7f91d3-4bab-47cd-a62d-d612a20fe982'"
+    email: "my@email.com"
+    is_email_confirmed: false
+    email_confirmation_code: "uuid'5a7f91d3-4bab-47cd-a62d-d612a20fe982'"

@@ -1,0 +1,3 @@
+user:
+  - email: "my@email.com"
+    is_email_confirmed: false
